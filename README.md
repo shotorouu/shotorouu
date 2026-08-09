@@ -34,17 +34,18 @@
 
 <p align="left">
   <img src="assets/icons/Ubuntu.svg" alt="Ubuntu" width="40" height="40" />
-  <img src="assets/icons/Bash.svg" alt="bash" width="40" height="40" />
-  <img src="assets/icons/Git.svg" alt="git" width="40" height="40" />
+  <img src="assets/icons/RedHat.svg" alt="RedHat" width="43" height="40" />
+  <img src="assets/icons/Bash.svg" alt="Bash" width="40" height="40" />
+  <img src="assets/icons/Git.svg" alt="Git" width="40" height="40" />
   <img src="assets/icons/AWS.svg" alt="AWS" width="40" height="40" />
   <img src="assets/icons/NGINX.svg" alt="Nginx" width="40" height="40" />
-  <img src="assets/icons/Docker.svg" alt="docker" width="43" height="40" />
-  <img src="assets/icons/K8s.svg" alt="k8s" width="43" height="40" />
-  <img src="assets/icons/Ansible.svg" alt="ansible" width="43" height="40" />
-  <img src="assets/icons/Monitoring.svg" alt="monitoring" width="43" height="40" />
-  <img src="assets/icons/CICD.svg" alt="cicd" width="43" height="40" />
-  <img src="assets/icons/Python.svg" alt="python" width="43" height="40" />
-  <img src="assets/icons/SQL.svg" alt="sql" width="43" height="40" />
+  <img src="assets/icons/Docker.svg" alt="Docker" width="43" height="40" />
+  <img src="assets/icons/K8s.svg" alt="K8s" width="43" height="40" />
+  <img src="assets/icons/Ansible.svg" alt="Ansible" width="43" height="40" />
+  <img src="assets/icons/Monitoring.svg" alt="Monitoring" width="43" height="40" />
+  <img src="assets/icons/CICD.svg" alt="CI/CD" width="43" height="40" />
+  <img src="assets/icons/Python.svg" alt="Python" width="43" height="40" />
+  <img src="assets/icons/SQL.svg" alt="SQL" width="43" height="40" />
 </p>
 
 <p align="center">
