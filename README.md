@@ -21,7 +21,7 @@
 
 ### 😊 About me
 
-- 👨‍💻 I’m a Junior DevOps engineer
+- 👨‍💻 I’m a Trainee DevOps engineer
 - 🔥 I practice my skills through hands-on labs and pet projects
 - 😏 I’m currently looking for an <b>internship or a Junior DevOps role</b>
 - 🧠 I want to learn from more experienced engineers
