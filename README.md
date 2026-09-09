@@ -1,64 +1,52 @@
-<p align="center">
-  <img src="./assets/gif.gif" alt="Header Banner" width="700px" height="330px" />
-</p>
-
-<h1 align="center">
-  Hello, 👋 I'm Ali Sultan<br/>
-  DevOps/Cloud Engineer
-</h1>
+<h1 align="center">Ali Sultan, 17 y.o</h1>
+<h3 align="center">DevOps & Platform/Cloud Engineer</h3>
 
 <p align="center">
-  <a href="https://t.me/shotorouu" target="_blank">
-    <img src="assets/icons/Telegram.svg" alt="Telegram" />
-  </a>
+  <a href="mailto:decoy0223@gmail.com"><img src="https://img.shields.io/badge/Email-decoy0223%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://t.me/shotorouu" target="_blank"><img src="https://img.shields.io/badge/Telegram-@shotorouu-26A5E4?style=flat&logo=telegram&logoColor=white"/></a>
 </p>
+
+---
+
+### 👨‍💻 About Me
+
+* **Role:** Trainee DevOps Engineer actively building hands-on infrastructure, CI/CD pipelines, and cloud automation setups.
+* **Goal:** Seeking an **Internship or Junior DevOps Engineer** role to contribute to production environments and learn alongside senior engineers.
+* **Focus:** Infrastructure as Code (IaC), Containerization, GitOps, and AWS Cloud architecture.
+
+---
+
+### 🛠 Tech Stack
+
+**Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-00C7B7?style=flat&logo=vault&logoColor=white)
+![Networking](https://img.shields.io/badge/TCP%2FIP_&_Networking-00599C?style=flat)
+
+**OS, Scripting & Data**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![RedHat](https://img.shields.io/badge/RedHat-EE0000?style=flat&logo=redhat&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**CI/CD & Observability**
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Grafana_Loki-F46800?style=flat&logo=grafana&logoColor=white)
+![cAdvisor](https://img.shields.io/badge/cAdvisor-222222?style=flat)
+
+---
 
 <p align="center">
-  <img src="assets/line.gif" alt="" width="100%" height="2" />
-</p>
-
-<img src="./assets/pengu.gif" alt="Pengu" width="200" align="right" />
-
-### 😊 About me
-
-- 👨‍💻 I’m a Trainee DevOps engineer
-- 🔥 I practice my skills through hands-on labs and pet projects
-- 😏 I’m currently looking for an <b>internship or a Junior DevOps role</b>
-- 🧠 I want to learn from more experienced engineers
-
-<br/>
-
-### 🔥 My Skills
-
-### ✨ DevOps
-
-<p align="left">
-  <img src="assets/icons/Ubuntu.svg" alt="Ubuntu" width="40" height="40" />
-  <img src="assets/icons/RedHat.svg" alt="RedHat" width="43" height="40" />
-  <img src="assets/icons/Bash.svg" alt="Bash" width="40" height="40" />
-  <img src="assets/icons/Git.svg" alt="Git" width="40" height="40" />
-  <img src="assets/icons/AWS.svg" alt="AWS" width="40" height="40" />
-  <img src="assets/icons/NGINX.svg" alt="Nginx" width="40" height="40" />
-  <img src="assets/icons/Docker.svg" alt="Docker" width="43" height="40" />
-  <img src="assets/icons/K8s.svg" alt="K8s" width="43" height="40" />
-  <img src="assets/icons/Ansible.svg" alt="Ansible" width="43" height="40" />
-  <img src="assets/icons/Monitoring.svg" alt="Monitoring" width="43" height="40" />
-  <img src="assets/icons/CICD.svg" alt="CI/CD" width="43" height="40" />
-  <img src="assets/icons/Python.svg" alt="Python" width="43" height="40" />
-  <img src="assets/icons/SQL.svg" alt="SQL" width="43" height="40" />
-</p>
-
-<p align="center">
-  <img src="assets/line.gif" alt="" width="100%" height="2" />
-</p>
-
-<h3 align="center">Feel free to contact me</h3>
-<h3 align="center">
-  <img src="./assets/down.gif" alt="" width="32" />
-  &nbsp; See my pinned repositories &nbsp;
-  <img src="./assets/down.gif" alt="" width="32" />
-</h3>
-
-<p align="center">
-  <img src="assets/line.gif" alt="" width="100%" height="2" />
+  <i>Open to internships, junior roles, and open-source collaboration. Feel free to reach out!</i>
 </p>
