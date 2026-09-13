@@ -2,7 +2,7 @@
 <h3 align="center">DevOps & Platform/Cloud Engineer</h3>
 
 <p align="center">
-  <a href="mailto:decoy0223@gmail.com"><img src="https://img.shields.io/badge/Email-decoy0223%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:shotorouu@gmail.com"><img src="https://img.shields.io/badge/Email-decoy0223%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://t.me/shotorouu" target="_blank"><img src="https://img.shields.io/badge/Telegram-@shotorouu-26A5E4?style=flat&logo=telegram&logoColor=white"/></a>
 </p>
 
