@@ -8,7 +8,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 * **Role:** Trainee DevOps Engineer actively building hands-on infrastructure, CI/CD pipelines, and cloud automation setups.
 * **Goal:** Seeking an **Internship or Junior DevOps Engineer** role to contribute to production environments and learn alongside senior engineers.
@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 **Cloud & Infrastructure**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
